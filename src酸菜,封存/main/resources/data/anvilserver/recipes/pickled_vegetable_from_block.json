@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pickled_vegetable:pickled_vegetable_block"
+    }
+  ],
+  "result": {
+    "item": "pickled_vegetable:pickled_vegetable",
+    "count": 9
+  }
+}

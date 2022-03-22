@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "###",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "pickled_vegetable:pickled_vegetable"
+    }
+  },
+  "result": {
+    "item": "pickled_vegetable:pickled_vegetable_pack",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pickled_vegetable:block/pickled_vegetable_block"
+  }
+}
