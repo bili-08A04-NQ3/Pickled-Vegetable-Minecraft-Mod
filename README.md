@@ -1,2 +1,4 @@
 # Pickled-Vegetable-Minecraft-Mod
-## 弃坑了,这是我的模组入门作
+ - 这是我的第一个模组!
+ - [bilibili] https://www.bilibili.com/video/BV1fR4y1F7aX/
+
